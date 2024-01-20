@@ -10,3 +10,5 @@ no-fast-forwardで変更した
 github上で編集したよー
 
 github上で編集して競合したよ!
+
+rebaseブランチで編集
