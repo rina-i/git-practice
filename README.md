@@ -12,5 +12,4 @@ github上で編集したよー
 github上で編集して競合したよ!
 
 rebaseブランチで編集
-
-mainブランチで競合発生させるよ
+rebaseで競合だよ
