@@ -18,3 +18,7 @@ rebaseで競合だよ
 rebase用
 
 stashだよ
+
+stash練習（track済み）
+
+stash1
