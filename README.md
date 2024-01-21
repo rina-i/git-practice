@@ -16,3 +16,5 @@ rebaseブランチで編集
 rebaseで競合だよ
 
 rebase用
+
+stashだよ
