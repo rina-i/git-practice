@@ -22,3 +22,5 @@ stashだよ
 stash練習（track済み）
 
 stash1
+
+stash 2
