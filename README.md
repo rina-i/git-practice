@@ -12,4 +12,7 @@ github上で編集したよー
 github上で編集して競合したよ!
 
 rebaseブランチで編集
+
 rebaseで競合だよ
+
+rebase用
